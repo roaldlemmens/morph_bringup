@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>morph_bringup</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>The morph_bringup package contains launch files and parameters for bringing up the robot </description>
   <maintainer email="roaldlemmens@gmail.com">Roald Lemmens</maintainer>
   <license>GPLv3</license>
