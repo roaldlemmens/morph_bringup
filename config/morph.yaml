@@ -8,4 +8,6 @@ mobile_base_controller:
   enable_odom_tf: true
 joint_state_controller:
     type: joint_state_controller/JointStateController
-    publish_rate: 100
+    publish_rate: 50
+turtlebot_node:
+    has_gyro: false
