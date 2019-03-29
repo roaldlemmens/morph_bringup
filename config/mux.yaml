@@ -26,3 +26,7 @@ subscribers:
     topic:       "input/navi"
     timeout:     1.0
     priority:    5
+  - name:        "line-navigation"
+    topic:       "/line_navigation/cmd_vel"
+    timeout:     1.0
+    priority:    4
